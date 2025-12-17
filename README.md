@@ -53,6 +53,7 @@ NOTA: El sistema está diseñado modularmente para poder agregar nuevos gestos o
 ---
 
 ##  Estructura del Repositorio
+```text
 sistema-embebido-lsm/
 │
 ├── vision/

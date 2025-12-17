@@ -77,6 +77,7 @@ sistema-embebido-lsm/
 ├── requirements.txt
 └── .gitignore
 
+```
 
 ---
 
